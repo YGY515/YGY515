@@ -9,5 +9,7 @@ YGY515/YGY515 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-- 현재 광운대학교 정보융합학부 (세부전공: 컨텐츠테크놀로지) 에 4학년으로 제학 중. 
-- 2024. 02 졸업 예정
+--- 
+현재 광운대학교 정보융합학부 (세부전공: 컨텐츠테크놀로지) 에 4학년으로 제학 중.
+
+2024. 02 졸업 예정
