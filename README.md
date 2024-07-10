@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 --- 
 
-#### 광운대학교 소프트웨어융합대학 정보융합학부 졸업
+#### 24.02 광운대학교 정보융합학부 졸업
 
 <br/>
 <br/>
