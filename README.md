@@ -15,8 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 --- 
 
-#### 2024.02 광운대학교 정보융합학부 졸업
-
 <br/>
 <br/>
 
