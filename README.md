@@ -5,7 +5,7 @@
 <br/>
 <br/>
   <div>
-      <a href = "https://sicarope-dev.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
+      <a href = "https://sicarope-dev.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-E34F26.svg?&style=for-the-badge&logo=Tistory=white"/></a>
       <a href="https://www.notion.so/UE5-6daabc26f26e4dde855d6cf5800d598f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/UE5-6daabc26f26e4dde855d6cf5800d598f">
   </div> 
 
