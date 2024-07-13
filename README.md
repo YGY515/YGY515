@@ -4,9 +4,10 @@
 
 <br/>
 <br/>
+  <div>
       <a href = "https://sicarope-dev.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
       <a href="https://www.notion.so/UE5-6daabc26f26e4dde855d6cf5800d598f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/UE5-6daabc26f26e4dde855d6cf5800d598f">
-</div> 
+  </div> 
 
 <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
