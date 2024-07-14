@@ -9,6 +9,7 @@
     <a><img src="https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
     <a><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
     <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a>
+    <a><img src="https://img.shields.io/badge/JavaScriipt-D77310.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/><a?
 </div>
 
 ## 🔧 Tools
