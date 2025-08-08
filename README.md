@@ -26,8 +26,7 @@
     
 </div>
 
-### ✏️ Blog & Potofolio
+### ✏️ Blog
 <div>
     <a href = "https://sicarope-dev.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-E34F26.svg?&style=for-the-badge&logo=Tistoty&logo=Tistory=white"/></a>
-    <a href = "https://www.notion.so/Notion-d1df5a3c904344eb9cf0adc244d56bce?pvs=4"> <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a> 
 </div> 
